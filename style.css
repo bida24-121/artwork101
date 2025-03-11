@@ -78,6 +78,8 @@ a{
     width: 80%;
     height: 100%;
     padding: 15% 0;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 .content h1{
     font-size: 30px;
